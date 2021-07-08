@@ -21,7 +21,7 @@ body {
 
 #header {
     grid-area: header;
-    background-image: url(/image/logo.png);
+    background-image: url(../image/logo.png);
     background-repeat: no-repeat;
     background-size: 45%;
     background-position: center center;
@@ -114,7 +114,7 @@ color: #fff;
 .intro::before {
     content: '';
     position: absolute;
-    background-image: url(/image/featured.jpg);
+    background-image: url(../image/featured.jpg);
     width: 100%;
     height: 100%;
     background-position: center center;
