@@ -20,7 +20,7 @@ body {
 
 #header {
     grid-area: header;
-    background-image: url(/image/logo.png);
+    background-image: url(image/logo.png);
     background-repeat: no-repeat;
     background-size: 15%;
     background-position: 10vw center;
